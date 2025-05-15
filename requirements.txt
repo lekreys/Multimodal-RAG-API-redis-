@@ -1,0 +1,14 @@
+cohere
+fastapi
+google-genai
+langchain
+numpy
+Pillow
+PyPDF2
+python-dotenv
+pydantic
+redis
+redisvl
+requests
+supabase
+uvicorn[standard]
